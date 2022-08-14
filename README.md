@@ -1,5 +1,7 @@
 # Designing-Data-Intensive-Applications
-Info for the HTEX CS Book club discussion of Designing Data-Intensive Applications
+# NOTICE - The IN-PERSON Meeting on Aug 14th is cancelled due to covid but a virtual meeting will still take place!
+
+
 ![Flier](Book%20Club.png)
 
 # Greetings!
